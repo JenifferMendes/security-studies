@@ -7,3 +7,5 @@ The practice of ensuring confidentiality, integrity and availability of informat
 ## what is a threat actor?
 
 any person or group who presents a security risk
+
+Glossary:  https://csrc.nist.gov/glossary
